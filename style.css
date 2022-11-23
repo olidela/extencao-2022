@@ -2399,7 +2399,7 @@ label {
   margin: 3px;
   font-size: 1px;
   font-family: "Roboto", "Arial";
-  font-weight: 400;
+  font-weight: 100;
   font-style: normal;
   color: #ffffff;
   text-shadow: none;
@@ -2424,7 +2424,7 @@ label {
   clear: none;
   font-size: 16px;
   font-family: "Roboto", "Arial";
-  font-weight: 400;
+  font-weight: 100;
   font-style: normal;
   color: #ffffff;
   text-shadow: none;
@@ -10518,4 +10518,12 @@ footer {
 
 .prioridade {
   margin-top: 80px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.displayFlex {
+  
 }
